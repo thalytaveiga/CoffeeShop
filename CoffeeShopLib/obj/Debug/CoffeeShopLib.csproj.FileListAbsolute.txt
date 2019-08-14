@@ -1,0 +1,78 @@
+D:\Centennial College\Software Engineering Technician\TERM2\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\TERM2\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\TERM2\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\TERM2\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\TERM2\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\TERM2\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A2a\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3a\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.GenerateResource.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A3\CoffeeShopLib\obj\Debug\CoffeeShopLib.Properties.Resources.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.Properties.Resources.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.GenerateResource.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.Properties.Resources.resources
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.GenerateResource.cache
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CopyComplete
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb

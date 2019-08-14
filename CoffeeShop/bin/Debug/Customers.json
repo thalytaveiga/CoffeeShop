@@ -1,0 +1,483 @@
+{
+  "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.Customer, CoffeeShopLib]], mscorlib",
+  "$values": [
+    {
+      "$type": "CoffeeShopLib.Customer, CoffeeShopLib",
+      "IdNumber": 2,
+      "Name": "Jon Smith",
+      "Address": {
+        "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+        "Street": "35 Elm St",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": "M2M 2K5"
+      },
+      "Phone": 4161234567,
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.Order, CoffeeShopLib]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShopLib.Order, CoffeeShopLib",
+            "CustomerExist": false,
+            "OrderId": 1,
+            "DeliveryAddress": {
+              "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+              "Street": "35 Elm St",
+              "City": "Toronto",
+              "Province": "ON",
+              "PostalCode": "M2M 2K5"
+            },
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.OrderItem, CoffeeShopLib]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Suggar, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Coffee, CoffeeShopLib",
+                      "description": "Original Blend Coffee",
+                      "baseCost": 2.0,
+                      "Description": "Original Blend Coffee",
+                      "BaseCost": 2.0
+                    },
+                    "description": "Original Blend Coffee, Suggar",
+                    "baseCost": 2.05,
+                    "Description": "Original Blend Coffee, Suggar",
+                    "BaseCost": 2.05
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Suggar, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Suggar, CoffeeShopLib",
+                      "menu": {
+                        "$type": "CoffeeShopLib.Coffee, CoffeeShopLib",
+                        "description": "Original Blend Coffee",
+                        "baseCost": 2.0,
+                        "Description": "Original Blend Coffee",
+                        "BaseCost": 2.0
+                      },
+                      "description": "Original Blend Coffee, Suggar",
+                      "baseCost": 2.05,
+                      "Description": "Original Blend Coffee, Suggar",
+                      "BaseCost": 2.05
+                    },
+                    "description": "Original Blend Coffee, Suggar, Suggar",
+                    "baseCost": 2.10,
+                    "Description": "Original Blend Coffee, Suggar, Suggar",
+                    "BaseCost": 2.10
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Suggar, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                      "menu": {
+                        "$type": "CoffeeShopLib.Coffee, CoffeeShopLib",
+                        "description": "Original Blend Coffee",
+                        "baseCost": 2.0,
+                        "Description": "Original Blend Coffee",
+                        "BaseCost": 2.0
+                      },
+                      "description": "Original Blend Coffee, Milk",
+                      "baseCost": 2.10,
+                      "Description": "Original Blend Coffee, Milk",
+                      "BaseCost": 2.10
+                    },
+                    "description": "Original Blend Coffee, Milk, Suggar",
+                    "baseCost": 2.15,
+                    "Description": "Original Blend Coffee, Milk, Suggar",
+                    "BaseCost": 2.15
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Suggar, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                      "menu": {
+                        "$type": "CoffeeShopLib.Coffee, CoffeeShopLib",
+                        "description": "Original Blend Coffee",
+                        "baseCost": 2.0,
+                        "Description": "Original Blend Coffee",
+                        "BaseCost": 2.0
+                      },
+                      "description": "Original Blend Coffee, Milk",
+                      "baseCost": 2.10,
+                      "Description": "Original Blend Coffee, Milk",
+                      "BaseCost": 2.10
+                    },
+                    "description": "Original Blend Coffee, Milk, Suggar",
+                    "baseCost": 2.15,
+                    "Description": "Original Blend Coffee, Milk, Suggar",
+                    "BaseCost": 2.15
+                  }
+                }
+              ]
+            },
+            "TimeOrder": "2019-04-12T16:20:00.9860466-04:00",
+            "DeliveryTime": "2019-04-12T16:20:01.0770707-04:00",
+            "Cost": 8.45,
+            "OrderType": 0,
+            "Delivered": true,
+            "RestaurantOrder": 0,
+            "PhoneOrder": 0
+          },
+          {
+            "$type": "CoffeeShopLib.Order, CoffeeShopLib",
+            "CustomerExist": true,
+            "OrderId": 4,
+            "DeliveryAddress": {
+              "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+              "Street": "35 Elm St",
+              "City": "Toronto",
+              "Province": "ON",
+              "PostalCode": "M2M 2K5"
+            },
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.OrderItem, CoffeeShopLib]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                      "menu": {
+                        "$type": "CoffeeShopLib.Tea, CoffeeShopLib",
+                        "description": "Tea",
+                        "baseCost": 1.80,
+                        "Description": "Tea",
+                        "BaseCost": 1.80
+                      },
+                      "description": "Tea, Milk",
+                      "baseCost": 1.90,
+                      "Description": "Tea, Milk",
+                      "BaseCost": 1.90
+                    },
+                    "description": "Tea, Milk, Milk",
+                    "baseCost": 2.00,
+                    "Description": "Tea, Milk, Milk",
+                    "BaseCost": 2.00
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.SandwichWithBacon, CoffeeShopLib",
+                    "description": "White bread sandwich with bacon",
+                    "baseCost": 5.0,
+                    "Description": "White bread sandwich with bacon",
+                    "BaseCost": 5.0
+                  }
+                }
+              ]
+            },
+            "TimeOrder": "2019-04-12T16:20:01.0010494-04:00",
+            "DeliveryTime": "2019-04-12T16:20:01.0770707-04:00",
+            "Cost": 7.00,
+            "OrderType": 0,
+            "Delivered": true,
+            "RestaurantOrder": 0,
+            "PhoneOrder": 0
+          }
+        ]
+      }
+    },
+    {
+      "$type": "CoffeeShopLib.Customer, CoffeeShopLib",
+      "IdNumber": 3,
+      "Name": "Ann Brown",
+      "Address": {
+        "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+        "Street": "35 Queen St",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": "M2T 1M1"
+      },
+      "Phone": 4169876543,
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.Order, CoffeeShopLib]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShopLib.Order, CoffeeShopLib",
+            "CustomerExist": false,
+            "OrderId": 2,
+            "DeliveryAddress": {
+              "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+              "Street": "35 Queen St",
+              "City": "Toronto",
+              "Province": "ON",
+              "PostalCode": "M2T 1M1"
+            },
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.OrderItem, CoffeeShopLib]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Coffee, CoffeeShopLib",
+                      "description": "Original Blend Coffee",
+                      "baseCost": 2.0,
+                      "Description": "Original Blend Coffee",
+                      "BaseCost": 2.0
+                    },
+                    "description": "Original Blend Coffee, Milk",
+                    "baseCost": 2.10,
+                    "Description": "Original Blend Coffee, Milk",
+                    "BaseCost": 2.10
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Coffee, CoffeeShopLib",
+                      "description": "Original Blend Coffee",
+                      "baseCost": 2.0,
+                      "Description": "Original Blend Coffee",
+                      "BaseCost": 2.0
+                    },
+                    "description": "Original Blend Coffee, Milk",
+                    "baseCost": 2.10,
+                    "Description": "Original Blend Coffee, Milk",
+                    "BaseCost": 2.10
+                  }
+                }
+              ]
+            },
+            "TimeOrder": "2019-04-12T16:20:01.0010494-04:00",
+            "DeliveryTime": "2019-04-12T16:20:01.0770707-04:00",
+            "Cost": 4.20,
+            "OrderType": 0,
+            "Delivered": true,
+            "RestaurantOrder": 0,
+            "PhoneOrder": 0
+          }
+        ]
+      }
+    },
+    {
+      "$type": "CoffeeShopLib.Customer, CoffeeShopLib",
+      "IdNumber": 4,
+      "Name": "John Dow",
+      "Address": {
+        "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+        "Street": "",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": ""
+      },
+      "Phone": 0,
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.Order, CoffeeShopLib]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShopLib.Order, CoffeeShopLib",
+            "CustomerExist": false,
+            "OrderId": 3,
+            "DeliveryAddress": {
+              "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+              "Street": "",
+              "City": "Toronto",
+              "Province": "ON",
+              "PostalCode": ""
+            },
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.OrderItem, CoffeeShopLib]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                      "menu": {
+                        "$type": "CoffeeShopLib.CoffeeDarkRoast, CoffeeShopLib",
+                        "description": "Dark roast coffee",
+                        "baseCost": 2.0,
+                        "Description": "Dark roast coffee",
+                        "BaseCost": 2.0
+                      },
+                      "description": "Dark roast coffee, Milk",
+                      "baseCost": 2.10,
+                      "Description": "Dark roast coffee, Milk",
+                      "BaseCost": 2.10
+                    },
+                    "description": "Dark roast coffee, Milk, Milk",
+                    "baseCost": 2.20,
+                    "Description": "Dark roast coffee, Milk, Milk",
+                    "BaseCost": 2.20
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Tea, CoffeeShopLib",
+                      "description": "Tea",
+                      "baseCost": 1.80,
+                      "Description": "Tea",
+                      "BaseCost": 1.80
+                    },
+                    "description": "Tea, Milk",
+                    "baseCost": 1.90,
+                    "Description": "Tea, Milk",
+                    "BaseCost": 1.90
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Milk, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.Tea, CoffeeShopLib",
+                      "description": "Tea",
+                      "baseCost": 1.80,
+                      "Description": "Tea",
+                      "BaseCost": 1.80
+                    },
+                    "description": "Tea, Milk",
+                    "baseCost": 1.90,
+                    "Description": "Tea, Milk",
+                    "BaseCost": 1.90
+                  }
+                }
+              ]
+            },
+            "TimeOrder": "2019-04-12T16:20:01.0010494-04:00",
+            "DeliveryTime": "2019-04-12T16:20:01.0770707-04:00",
+            "Cost": 6.00,
+            "OrderType": 0,
+            "Delivered": true,
+            "RestaurantOrder": 0,
+            "PhoneOrder": 0
+          }
+        ]
+      }
+    },
+    {
+      "$type": "CoffeeShopLib.Customer, CoffeeShopLib",
+      "IdNumber": 1,
+      "Name": "Coffee and sandwiches",
+      "Address": {
+        "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+        "Street": "1 King St",
+        "City": "Toronto",
+        "Province": "ON",
+        "PostalCode": "M1M 1M1"
+      },
+      "Phone": 0,
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.Order, CoffeeShopLib]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShopLib.Order, CoffeeShopLib",
+            "CustomerExist": false,
+            "OrderId": 5,
+            "DeliveryAddress": {
+              "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+              "Street": null,
+              "City": null,
+              "Province": null,
+              "PostalCode": null
+            },
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.OrderItem, CoffeeShopLib]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.SandwichWithBacon, CoffeeShopLib",
+                    "description": "White bread sandwich with bacon",
+                    "baseCost": 5.0,
+                    "Description": "White bread sandwich with bacon",
+                    "BaseCost": 5.0
+                  }
+                }
+              ]
+            },
+            "TimeOrder": "2019-04-12T16:20:01.0050528-04:00",
+            "DeliveryTime": "2019-04-12T16:20:01.0320576-04:00",
+            "Cost": 5.0,
+            "OrderType": 1,
+            "Delivered": true,
+            "RestaurantOrder": 0,
+            "PhoneOrder": 0
+          },
+          {
+            "$type": "CoffeeShopLib.Order, CoffeeShopLib",
+            "CustomerExist": false,
+            "OrderId": 6,
+            "DeliveryAddress": {
+              "$type": "CoffeeShopLib.Address, CoffeeShopLib",
+              "Street": null,
+              "City": null,
+              "Province": null,
+              "PostalCode": null
+            },
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShopLib.OrderItem, CoffeeShopLib]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.SandwichWithRoastedBeef, CoffeeShopLib",
+                    "description": "White bread sandwich with roasted beef",
+                    "baseCost": 5.50,
+                    "Description": "White bread sandwich with roasted beef",
+                    "BaseCost": 5.50
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.SandwichWithEggSalad, CoffeeShopLib",
+                    "description": "White bread sandwich with egg salad",
+                    "baseCost": 4.0,
+                    "Description": "White bread sandwich with egg salad",
+                    "BaseCost": 4.0
+                  }
+                },
+                {
+                  "$type": "CoffeeShopLib.OrderItem, CoffeeShopLib",
+                  "MenuItems": {
+                    "$type": "CoffeeShopLib.Lettuce, CoffeeShopLib",
+                    "menu": {
+                      "$type": "CoffeeShopLib.SandwichWithEggSalad, CoffeeShopLib",
+                      "description": "White bread sandwich with egg salad",
+                      "baseCost": 4.0,
+                      "Description": "White bread sandwich with egg salad",
+                      "BaseCost": 4.0
+                    },
+                    "description": "White bread sandwich with egg salad, Lettuce",
+                    "baseCost": 4.30,
+                    "Description": "White bread sandwich with egg salad, Lettuce",
+                    "BaseCost": 4.30
+                  }
+                }
+              ]
+            },
+            "TimeOrder": "2019-04-12T16:20:01.0050528-04:00",
+            "DeliveryTime": "2019-04-12T16:20:01.0320576-04:00",
+            "Cost": 13.80,
+            "OrderType": 1,
+            "Delivered": true,
+            "RestaurantOrder": 0,
+            "PhoneOrder": 0
+          }
+        ]
+      }
+    }
+  ]
+}

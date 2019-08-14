@@ -1,0 +1,38 @@
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopGUI.exe.config
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopGUI.exe
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopGUI.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopLib.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csprojAssemblyReference.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormAddCustomer.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormAddOrder.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormCoffeeShop.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormCustomerOrders.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.Properties.Resources.resources
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csproj.GenerateResource.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csproj.CoreCompileInputs.cache
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csproj.CopyComplete
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.exe
+D:\Centennial College\Software Engineering Technician\Winter 2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopGUI.exe.config
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopGUI.exe
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopGUI.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopLib.dll
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\Newtonsoft.Json.dll
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\CoffeeShopLib.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\Newtonsoft.Json.pdb
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\bin\Debug\Newtonsoft.Json.xml
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csprojAssemblyReference.cache
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormAddCustomer.resources
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormAddOrder.resources
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormCoffeeShop.resources
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.FormCustomerOrders.resources
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.Properties.Resources.resources
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csproj.GenerateResource.cache
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csproj.CoreCompileInputs.cache
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.csproj.CopyComplete
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.exe
+D:\Centennial\Software-Engineering\2-Winter-2019\COMP123 - Programming 2\ThalytaH_300861728_A4\CoffeeShopGUI\obj\Debug\CoffeeShopGUI.pdb
